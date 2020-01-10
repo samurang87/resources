@@ -3,6 +3,7 @@
 ## Tools
 
 - [kind](https://kind.sigs.k8s.io/) is a tool for running local Kubernetes clusters using Docker container “nodes”. kind is primarily designed for testing Kubernetes 1.11+, initially targeting the conformance tests.
+- The [Kubernetes Universal Declarative Operator (KUDO)](https://kudo.dev/) is a highly productive toolkit for writing Kubernetes Operators.
 
 ## How-to's
 
